@@ -10,10 +10,10 @@ proxies:
   - {name: 香港2号需要稳定实惠可以加Q1607928649, server: hka2.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: hka2.wujie8.xyz, skip-cert-verify: false}
   - {name: 日本2号先测试后买套餐加Q1607928649, server: jpa2.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: jpa2.wujie8.xyz, skip-cert-verify: false}
   - {name: 美国2号长期稳定实惠加Q1607928649, server: usb1.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usb1.wujie8.xyz, skip-cert-verify: false}
-  - {name: 美国3号, server: usa3.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa3.wujie8.xyz, skip-cert-verify: false}
-  - {name: 美国4号, server: usa4.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa4.wujie8.xyz, skip-cert-verify: false}
-  - {name: 美国5号, server: usa5.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa5.wujie8.xyz, skip-cert-verify: false}
-  - {name: 美国6号, server: usa6.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa6.wujie8.xyz, skip-cert-verify: false}
+  - {name: 美国3号Q1607928649, server: usa3.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa3.wujie8.xyz, skip-cert-verify: false}
+  - {name: 美国4号Q1607928649, server: usa4.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa4.wujie8.xyz, skip-cert-verify: false}
+  - {name: 美国5号Q1607928649, server: usa5.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa5.wujie8.xyz, skip-cert-verify: false}
+  - {name: 美国6号Q1607928649, server: usa6.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa6.wujie8.xyz, skip-cert-verify: false}
   - {name: 日本1号, server: jpa3.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: jpa3.wujie8.xyz, skip-cert-verify: false}
   - {name: 香港1号, server: hka3.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: hka3.wujie8.xyz, skip-cert-verify: false}
   - {name: 美国7号, server: usa7.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa7.wujie8.xyz, skip-cert-verify: false}
@@ -35,10 +35,10 @@ proxy-groups:
       - 香港2号需要稳定实惠可以加Q1607928649
       - 日本2号先测试后买套餐加Q1607928649
       - 美国2号长期稳定实惠加Q1607928649
-      - 美国3号
-      - 美国4号
-      - 美国5号
-      - 美国6号
+      - 美国3号Q1607928649
+      - 美国4号Q1607928649
+      - 美国5号Q1607928649
+      - 美国6号Q1607928649
       - 日本1号
       - 香港1号
       - 美国7号
@@ -101,10 +101,10 @@ proxy-groups:
     proxies:
       - 免费测试美国1号0228，长期稳定月10起步
       - 美国2号长期稳定实惠加Q1607928649
-      - 美国3号
-      - 美国4号
-      - 美国5号
-      - 美国6号
+      - 美国3号Q1607928649
+      - 美国4号Q1607928649
+      - 美国5号Q1607928649
+      - 美国6号Q1607928649
       - 美国7号
       - 美国8号
       - 美国9号

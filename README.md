@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 免费测试美国1号0228, server: usa1.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa1.wujie8.xyz, skip-cert-verify: false}
+  - {name: 免费测试美国1号0228，长期稳定月10起步, server: usa1.wujie8.xyz, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: usa1.wujie8.xyz, skip-cert-verify: false}
   - {name: 新加坡1号需要稳定实惠可以加Q1607928649, server: sga1.weipi.online, port: 4431, type: trojan, password: bLYUuMKgn1aHGKID, sni: sga1.weipi.online, skip-cert-verify: false}
   - {name: 香港2号需要稳定实惠可以加Q1607928649, server: hka2.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: hka2.wujie8.xyz, skip-cert-verify: false}
   - {name: 日本2号先测试后买套餐加Q1607928649, server: jpa2.wujie8.xyz, port: 443, type: trojan, password: bLYUuMKgn1aHGKID, sni: jpa2.wujie8.xyz, skip-cert-verify: false}
@@ -30,7 +30,7 @@ proxy-groups:
       - SG
       - TW
       - US
-      - 免费测试美国1号0228
+      - 免费测试美国1号0228，长期稳定月10起步
       - 新加坡1号需要稳定实惠可以加Q1607928649
       - 香港2号需要稳定实惠可以加Q1607928649
       - 日本2号先测试后买套餐加Q1607928649
@@ -99,7 +99,7 @@ proxy-groups:
   - name: US
     type: select
     proxies:
-      - 免费测试美国1号0228
+      - 免费测试美国1号0228，长期稳定月10起步
       - 美国2号长期稳定实惠加Q1607928649
       - 美国3号
       - 美国4号
